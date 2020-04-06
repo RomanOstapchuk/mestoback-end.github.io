@@ -1,6 +1,6 @@
 # RomanOstapchuk/mestoback-end.github.io
 
-## v0.0.1
+## v0.0.2
 
 ### Проект Mestoback-end создан для демонстрации работы серверной части проекта Mesto
 
